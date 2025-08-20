@@ -1,6 +1,6 @@
-# lochi_jpeg
-
-"Because I like JPEGs, for the resolution, the color. Everything about JPEGs I like."
+<h1 align="center">
+"Because I like JPEGs, for the resolution, the color.<br>Everything about JPEGs I like."
+</h1>
 
 ## Purpose
 
@@ -13,5 +13,5 @@ Scholar investigating 10th grade standardised curriculum content to achieve meri
 ## Studies
 
 - Senior extraneous gnu/linux application configuration
-- Burlesque visual design
+- Infinitesimal distribution of erroneous visual and tactile design
 - Appreciation of spoken word poetry performed to musical accompaniment
